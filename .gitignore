@@ -1,6 +1,6 @@
 node_modules/
 public/bundle.js
 public/bundle.js.map
-public/sryles.css
-public/sryles.css.map
+public/styles.css
+public/styles.css.map
 yarn-error.log
