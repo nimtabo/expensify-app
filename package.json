@@ -4,6 +4,11 @@
   "main": "index.js",
   "author": "mtabo",
   "license": "MIT",
+  "engines": {
+    "node": "8.10.0",
+    "npm": "3.5.2",
+    "yarn": "1.14.0"
+  },
   "scripts": {
     "build:dev": "webpack",
     "build:prod": "webpack -p --env production",
