@@ -23,9 +23,9 @@ exports[`should render Header correctly 1`] = `
         activeClassName="is-active"
         ariaCurrent="true"
         className="header__about"
-        to="/help"
+        to="/about"
       >
-        Help
+        About
       </NavLink>
       <button
         className="button button--link"
