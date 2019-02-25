@@ -143,8 +143,8 @@ store.subscribe(() => {
   console.log(visibleExpenses);
 })
 
-const expenseOne = store.dispatch(addExpenses({ description: 'rent', amount: 100, createdAt: 2240 }));
-const expenseTwo = store.dispatch(addExpenses({ description: 'Coffee', amount: 300, createdAt: 1000 }));
+// const expenseOne = store.dispatch(addExpenses({ description: 'rent', amount: 100, createdAt: 2240 }));
+// const expenseTwo = store.dispatch(addExpenses({ description: 'Coffee', amount: 300, createdAt: 1000 }));
 
 // store.dispatch(removeExpense({ id: expenseOne.expense.id }))
 // store.dispatch(editExpense(expenseTwo.expense.id, { amount: 500 }));
@@ -152,7 +152,7 @@ const expenseTwo = store.dispatch(addExpenses({ description: 'Coffee', amount: 3
 // store.dispatch(setTextFilter('rent'));
 // store.dispatch(setTextFilter());
 
-store.dispatch(sortByAmount());
+// store.dispatch(sortByAmount());
 // store.dispatch(sortByDate());
 
 // store.dispatch(setStartDate(125));
