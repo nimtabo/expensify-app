@@ -34,7 +34,7 @@ test('should setup remove expense action object', () => {
   });
 });
 
-// ********falling******
+// ***********************
 // test('should remove expense from firebase', (done) => {
 //   const store = createMockStore(defaultAuthState);
 //   const id = expenses[2].id;
