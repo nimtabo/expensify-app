@@ -1,0 +1,71 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render about page correctly 1`] = `
+<div>
+  <div
+    className="page-header"
+  >
+    <div
+      className="content-container"
+    >
+      <h2
+        className="page-header__title"
+      >
+        Developer: Nicholas Mtabo
+      </h2>
+      <p>
+        nicholasmtabo@yahoo.com
+      </p>
+      <p>
+        +254 704 643 061
+      </p>
+    </div>
+  </div>
+  <div
+    className="content-container"
+  >
+    <img
+      alt="React"
+      className="image__item"
+      src="/images/about/react.png"
+      title="React"
+    />
+    <img
+      alt="Redux"
+      className="image__item"
+      src="/images/about/redux.png"
+      title="Redux"
+    />
+    <img
+      alt="Node.js"
+      className="image__item"
+      src="/images/about/node.png"
+      title="Nodejs"
+    />
+    <img
+      alt="Sass"
+      className="image__item"
+      src="/images/about/sasss.png"
+      title="Sass"
+    />
+    <img
+      alt="firebase"
+      className="image__item"
+      src="/images/about/firebase.png"
+      title="firebase"
+    />
+    <img
+      alt="webpack"
+      className="image__item"
+      src="/images/about/webpack.png"
+      title="webpack"
+    />
+    <img
+      alt="jest-enzyme"
+      className="image__item"
+      src="/images/about/jestenzyme.jpg"
+      title="jest-enzyme"
+    />
+  </div>
+</div>
+`;

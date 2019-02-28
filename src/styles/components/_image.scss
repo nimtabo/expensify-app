@@ -1,0 +1,10 @@
+.image__item {
+  width: 75%;
+  float: left;
+  margin: 6.25%;
+  @media (min-width: $desktop-breakpoint) {
+    width: 30%;
+    float: left;
+    margin: 1.66%;
+ }
+}
